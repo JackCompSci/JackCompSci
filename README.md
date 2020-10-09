@@ -1,8 +1,10 @@
 # Hey, I'm Jack 👋
 
 <img src="https://raw.githubusercontent.com/JackCompSci/JackCompSci/main/gh-banner.png" alt="Banner that says: Jack Kent, Loughborough Student, Computer Scientist, Human Being">
-I'm a student studying Computer Science and Artificial Intelligence at Loughborough University. Currently most interested in applications of AI/ML in healthcare, and Smart Cities.
+I'm a student studying Computer Science and Artificial Intelligence at Loughborough University.
 <br>
+Currently most interested in applications of AI/ML in healthcare, and Smart Cities.
+<br><br>
 Also the Vice Chair of <a href="https://github.com/Loughborough-Space"> @Loughborough-Space</a> where I mainly work on the control system and electronics for our hybrid rocket engine.
 
 ## Find me around the web 🌎:
