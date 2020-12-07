@@ -5,7 +5,7 @@ I'm a student studying Computer Science and Artificial Intelligence at Loughboro
 <br>
 Currently most interested in applications of AI/ML in healthcare, and Smart Cities.
 <br><br>
-Director at <a href="https://jackex.co.uk"> JackEx</a>, a startup I cofounded during lockdown.
+Director at <a href="https://jackex.co.uk"> JackEx</a>, a startup I co-founded during lockdown.
 <br><br>
 Also the Vice Chair of <a href="https://github.com/Loughborough-Space"> @Loughborough-Space</a> where I mainly work on the control system and electronics for our hybrid rocket engine.
 
